@@ -1,22 +1,16 @@
-
 <h1 align="center"><b>Hi , I'm Erick Israel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
 <br>
 
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
 
 - Enthusiastic Computer Science student with a strong passion for AI and technology  
 - Proficient in Python, Java, and C++ with experience in OOP  
@@ -24,9 +18,6 @@
 - Experienced in AI, Neural Networks, TensorFlow, and CUDA  
 - Knowledgeable in Oracle Cloud Architecture and Low-Code Development with APEX  
 - Currently working on AI-related projects, including a bootcamp and a university symposium  
-
-
-
 
 <br><br>
 
@@ -74,7 +65,6 @@
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
-
 </p>
 
 <br>
@@ -83,7 +73,6 @@
 -----
 
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -98,12 +87,22 @@
 </div>
 
 <br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
 <br>
+
 <br>
 
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -120,10 +119,6 @@
 
 <br>
 
-
-<br>
-
-	
 </ul>
 </div>
 
@@ -132,20 +127,5 @@
 <br>
 <br>
 <br>
-
-<div align='center'>
-
-
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
 
 
