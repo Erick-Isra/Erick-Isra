@@ -16,12 +16,13 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
--Enthusiastic Computer Science student with a strong passion for AI and technology
--Proficient in Python, Java, and C++ with experience in OOP
--Skilled in Web Development using Django, Flask, HTML, and CSS
--Experienced in AI, Neural Networks, TensorFlow, and CUDA
--Knowledgeable in Oracle Cloud Architecture and Low-Code Development with APEX
--Currently working on AI-related projects, including a bootcamp and a university symposium
+- Enthusiastic Computer Science student with a strong passion for AI and technology  
+- Proficient in Python, Java, and C++ with experience in OOP  
+- Skilled in Web Development using Django, Flask, HTML, and CSS  
+- Experienced in AI, Neural Networks, TensorFlow, and CUDA  
+- Knowledgeable in Oracle Cloud Architecture and Low-Code Development with APEX  
+- Currently working on AI-related projects, including a bootcamp and a university symposium  
+
 
 
 
