@@ -17,7 +17,7 @@
 - Skilled in Web Development using Django, Flask, HTML, and CSS  
 - Experienced in AI, Neural Networks, TensorFlow, and CUDA  
 - Knowledgeable in Oracle Cloud Architecture and Low-Code Development with APEX  
-- Currently working on AI-related projects, including a bootcamp and a university symposium  
+- Currently working on AI-related projects 
 
 <br><br>
 
