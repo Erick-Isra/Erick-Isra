@@ -12,7 +12,7 @@
 
 <br>
 
-- Enthusiastic Computer Science student with a strong passion for AI and technology  
+- Enthusiastic Computer Scientist with a strong passion for AI and technology  
 - Proficient in Python, Java, and C++ with experience in OOP  
 - Skilled in Web Development using Django, Flask, HTML, and CSS  
 - Experienced in AI, Neural Networks, TensorFlow, and CUDA  
